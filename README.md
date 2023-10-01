@@ -34,11 +34,11 @@
   
 <div align="center">
   <img src="https://img.shields.io/badge/Programming%20Language-C-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Programming%20Language-C++-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-EmbeddedC-20C20E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Programming%20Language-Bash-20C20E?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/BUILD%20TOOL-CMAKE-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BUILD%20TOOL-GNU%20MAKE-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BUILD%20TOOL-Notepad++-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BUILD%20TOOL-eclipse%20MAKE-20C20E?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/Document%20generator-doxygen-20C20E?style=for-the-badge">
 
