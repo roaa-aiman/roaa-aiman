@@ -16,7 +16,8 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
-
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Mina-Karam?label=Follow%20Me&style=social)](https://github.com/Mina-Karam)
+<br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Roaa%20Aiman-brightgreen?logo=Linkedin&logoColor=Green&labelColor=black)](https://www.linkedin.com/in/roaa-aiman-0613a41b7//)
 [![Mail](https://img.shields.io/badge/roaaaiman4@gmail.com-brightgreen?logo=Gmail&logoColor=Green&labelColor=black)](mailto:roaaaiman4@gmail.com)
