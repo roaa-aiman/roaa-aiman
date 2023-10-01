@@ -21,15 +21,11 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Roaa%20Aiman-brightgreen?logo=Linkedin&logoColor=Green&labelColor=black)](https://www.linkedin.com/in/roaa-aiman-0613a41b7//)
-[![Mail](https://img.shields.io/badge/roaaaiman.me@gmail.com-brightgreen?logo=Gmail&logoColor=Green&labelColor=black)](mailto:roaaaiman4@gmail.com)
+[![Mail](https://img.shields.io/badge/roaaaiman4@gmail.com-brightgreen?logo=Gmail&logoColor=Green&labelColor=black)](mailto:roaaaiman4@gmail.com)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Roaa_Aiman-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/roaaaiman4)
 </br>
 
-<div align="center">
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Mina-Karam" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
 
