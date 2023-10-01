@@ -34,21 +34,16 @@
   
 <div align="center">
   <img src="https://img.shields.io/badge/Programming%20Language-C-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Programming%20Language-EmbeddedC-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-C++-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programming%20Language-Embedded C-20C20E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Programming%20Language-Bash-20C20E?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/BUILD%20TOOL-Notepad++-20C20E?style=for-the-badge">
   <img src="https://img.shields.io/badge/BUILD%20TOOL-eclipse%20MAKE-20C20E?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/Document%20generator-doxygen-20C20E?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/LIBRARY-NCURSES-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LIBRARY-CURL-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LIBRARY-MJSON-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-FreeRtos-20C20E?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-UBUNTU-20C20E?style=for-the-badge">
-
-  <img src="https://img.shields.io/badge/IDE-VSCODE-20C20E?style=for-the-badge">
 </div> 
 
 <br>
