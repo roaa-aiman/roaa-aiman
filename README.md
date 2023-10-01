@@ -17,12 +17,23 @@
 
 ### Connect with Me :
 
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Mina-Karam?label=Follow%20Me&style=social)](https://github.com/Mina-Karam)
+<br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Roaa%20Aiman-brightgreen?logo=Linkedin&logoColor=Green&labelColor=black)](https://www.linkedin.com/in/roaa-aiman-0613a41b7//)
 [![Mail](https://img.shields.io/badge/roaaaiman.me@gmail.com-brightgreen?logo=Gmail&logoColor=Green&labelColor=black)](mailto:roaaaiman4@gmail.com)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-Roaa_Aiman-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/roaaaiman4)
 </br>
+
+<div align="center">
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Mina-Karam" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
+
+
 
 ![LanguagesAndToolsHeader](https://user-images.githubusercontent.com/65850970/173563246-93fc96e4-1c3b-47ed-b1dc-ca933df9449b.png)
   
