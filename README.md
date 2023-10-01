@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Programming%20Language-Bash-20C20E?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/BUILD%20TOOL-Notepad++-20C20E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BUILD%20TOOL-eclipse%20MAKE-20C20E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BUILD%20TOOL-eclipse%20-20C20E?style=for-the-badge">
 
 
   <img src="https://img.shields.io/badge/OPERATING%20SYSTEM-FreeRtos-20C20E?style=for-the-badge">
