@@ -17,9 +17,12 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/roaa-aiman-0613a41b7" target="_blank"><img src="https://img.shields.io/badge/-Roaa%20Aiman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
 <br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Roaa%20Aiman-brightgreen?logo=Linkedin&logoColor=Green&labelColor=black)](https://www.linkedin.com/in/roaa-aiman-0613a41b7//)
+[![Mail](https://img.shields.io/badge/roaaaiman.me@gmail.com-brightgreen?logo=Gmail&logoColor=Green&labelColor=black)](mailto:roaaaiman4@gmail.com)
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Roaa_Aiman-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/roaaaiman4)
+</br>
 
 ![LanguagesAndToolsHeader](https://user-images.githubusercontent.com/65850970/173563246-93fc96e4-1c3b-47ed-b1dc-ca933df9449b.png)
   
