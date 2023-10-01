@@ -18,21 +18,8 @@
 
 
 ### Connect with Me :
-
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Mina%20Karam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/roaa-aiman-0613a41b7/)
-[![Mail](https://img.shields.io/badge/minakaram.me@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:roaaaiman4@gmail.com)
-<br>
-[![HackerRank](https://img.shields.io/badge/HackerRank-Mina_Karam-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/roaaaiman4)
-</br>
-
-<div align="center">
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=Mina-Karam" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
-
+<a href="https://www.linkedin.com/in/roaa-aiman-0613a41b7/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="roaaaiman4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
