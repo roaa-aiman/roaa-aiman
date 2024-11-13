@@ -49,7 +49,9 @@
 <br>
 
 
+## 📘 open source projects that I contributed to 
 
+  <a href="https://github.com/Tarek191020/FOTA-ADAS-Project"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Tarek191020&repo=FOTA-ADAS-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
